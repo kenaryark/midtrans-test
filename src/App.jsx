@@ -12,7 +12,7 @@ function App() {
 
   const dataPayment = {
     nama: "Ken",
-    order_id: "order-10",
+    order_id: "order-20",
     total: 100000,
     no_telp: "081292502255",
     item: "PS 5",
